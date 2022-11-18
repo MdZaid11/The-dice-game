@@ -1,0 +1,22 @@
+body {
+  background-color: #393E46;
+  text-align: center;
+  font-family: 'lobster';
+}
+.container {
+  color: #4ECCA3;
+  margin:30px;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.dice {
+  display:inline-block;
+  margin:7% 5%;
+
+}
+p {
+  color: #4ECCA3;
+  font-size:1.5rem;
+  margin-bottom: 50px;
+  font-family: 'Indie Flower', cursive;
+}
